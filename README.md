@@ -134,12 +134,4 @@ I'm passionate about building impactful technology and contributing to the open-
 - Educational Technology Solutions
 
 Feel free to reach out if you'd like to collaborate on innovative projects.
-
 ---
-
-## Philosophy
-
-> Building technology is not just about writing code—it's about creating systems that solve meaningful problems, scale effectively, and deliver lasting value.
-
----
-⭐ Always open to learning, collaborating, and building impactful solutions.
