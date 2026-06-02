@@ -1,47 +1,145 @@
-# 💫 About Me:
-🔭 I'm currently working on AI-powered applications including a RAG Chat Engine for document Q&A and an Interview Prep platform with Next.js. Also exploring secure AI inference with formally verified systems.<br>👯 I'm looking to collaborate on Open-source projects related to AI/ML tools, full-stack development, or developer productivity apps.<br>🤝 I'm looking for help with advanced system design patterns, GPU optimization for ML inference, and scaling vector databases for production.<br>🌱 I'm currently learning Docker, Kubernetes, LangChain/RAG architectures, and diving deeper into microkernel security (seL4) for AI systems.<br>💬 Ask me about Full-stack development (React/Next.js), AI integration (LLMs, RAG), REST APIs, or building responsive web applications.<br>
+# Hi, I'm Samruddhi Rahate 👋
 
+## AI Engineer | Full-Stack Developer | Open-Source Contributor
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samruddhi-rahate-526122280/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahatesamruddhi7@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/s_a_m_7/) [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/s_a_m7)
+Passionate about building intelligent software systems that combine AI, scalable backend architectures, and exceptional user experiences. My work focuses on Retrieval-Augmented Generation (RAG), LLM-powered applications, full-stack development, and secure AI infrastructure.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-# 🚀 Featured Projects:
-
-### [RAG Chat Engine](https://github.com/Samruddhi-7/RAG-Chat-Engine)
-Intelligent chat engine using Retrieval-Augmented Generation for document Q&A
-- **Tech:** Python, LangChain, OpenAI API, ChromaDB, Vector Embeddings
-- Built semantic search with vector databases for accurate context retrieval
-- Implemented LLM integration for natural language conversations
-
-### [Interview Prep Platform](https://github.com/Samruddhi-7/Interview-Prep)
-Interactive platform for technical interview preparation with coding challenges
-- **Tech:** Next.js, React, Tailwind CSS, shadcn/ui
-- Responsive UI with 100% cross-device compatibility
-- Progress tracking and personalized learning paths
-
-### [AI Career Coach](https://github.com/Samruddhi-7)
-Full-stack AI-powered career guidance platform
-- **Tech:** Next.js, Prisma, Gemini API, Neon DB
-- Personalized recommendations reducing manual search by 60%
-- Optimized backend with Inngest serverless functions (30% faster response)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Samruddhi-7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Samruddhi-7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samruddhi-7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Samruddhi-7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Currently exploring advanced AI system design, scalable vector databases, cloud-native deployments, and formally verified systems for secure AI inference.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Samruddhi-7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Professional Summary
 
+-  Building AI-powered applications, including document intelligence systems and interview preparation platforms.
+-  Experienced in integrating Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and vector search into production-ready applications.
+-  Expanding expertise in Kubernetes, distributed systems, cloud infrastructure, and AI deployment optimization.
+-  Open to collaborating on AI/ML projects, developer productivity tools, and impactful open-source initiatives.
+-  Interested in system design, ML infrastructure, secure computing, and scalable software architecture.
+-  Happy to discuss AI engineering, full-stack development, Next.js, React, APIs, and modern software development practices.
 
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/samruddhi-rahate-526122280" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rahatesamruddhi7@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/s_a_m_7/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://codeforces.com/profile/s_a_m7" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+</p>
+
+---
+
+## Technical Skills
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+
+### AI / Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4285F4?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+## Featured Projects
+
+### RAG Chat Engine
+**Intelligent document question-answering platform powered by Retrieval-Augmented Generation**
+
+**Tech Stack:** Python, LangChain, OpenAI API, ChromaDB, Vector Embeddings
+
+**Key Contributions**
+- Built semantic search using vector embeddings for accurate context retrieval.
+- Integrated LLM-powered responses grounded in retrieved documents.
+- Designed scalable document ingestion and retrieval workflows.
+
+🔗 **Repository:**  
+https://github.com/Samruddhi-7/RAG-Chat-Engine
+
+---
+
+### 🔹 Interview Prep Platform
+**Interactive platform for technical interview preparation**
+
+**Tech Stack:** Next.js, React, Tailwind CSS, shadcn/ui
+
+**Key Contributions**
+- Developed a responsive and accessible user interface.
+- Implemented structured learning paths and progress tracking.
+- Optimized performance across desktop and mobile devices.
+
+🔗 **Repository:**  
+https://github.com/Samruddhi-7/Interview-Prep
+
+---
+
+### AI Career Coach
+**AI-powered platform for personalized career guidance**
+
+**Tech Stack:** Next.js, Prisma, Gemini API, Neon DB, Inngest
+
+**Key Contributions**
+- Delivered AI-driven career recommendations and learning pathways.
+- Reduced manual career research through intelligent automation.
+- Improved backend efficiency with event-driven serverless workflows.
+
+---
+
+## Open Source & Collaboration
+
+I'm passionate about building impactful technology and contributing to the open-source ecosystem. I'm particularly interested in collaborating on:
+
+- AI/ML Applications
+- Developer Productivity Tools
+- Full-Stack Web Platforms
+- Open-Source Infrastructure Projects
+- Educational Technology Solutions
+
+Feel free to reach out if you'd like to collaborate on innovative projects.
+
+---
+
+## Philosophy
+
+> Building technology is not just about writing code—it's about creating systems that solve meaningful problems, scale effectively, and deliver lasting value.
+
+---
+⭐ Always open to learning, collaborating, and building impactful solutions.
